@@ -1,14 +1,13 @@
 {
-    "token": "your token",
+    "token": "XDNzM2Mjc1ODE4NjA2NjI0ODI4.XxscSg.eo8-OBwv01pOcwBfXLVmJzYP_tI",
     "status": {
         "state": "idle",
         "type": "PLAYING",
-        "name": "Chat simulator"
+        "name": "I like your cut g!"
     },
     "chat": {
         "url": "http://api.brainshop.ai/get",
-        "bid": "your BID",
-        "key": "your key",
-        "uid": "your random name"
+        "bid": "154092",
+        "key": "XYEre8CDrpG3D1GS",
+        "uid": "Jacky"
     }
-}
